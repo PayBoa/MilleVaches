@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'ITC Benguiat';
+    src: url('../fonts/BenguiatStd-Bold.woff2') format('woff2'),
+         url('../fonts/BenguiatStd-Bold.woff') format('woff'),
+         url('../fonts/BenguiatStd-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LeagueSpartan';
+    src: url('../fonts/LeagueSpartan-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.logo-title {
+    color: #BD0B0B;
+    font-family: 'ITC Benguiat';
+}
+
+.nav-link-custom {
+    color: #BD0B0B;
+    font-family: 'LeagueSpartan';
+}
